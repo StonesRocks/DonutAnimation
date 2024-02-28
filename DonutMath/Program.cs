@@ -1,0 +1,11 @@
+﻿namespace DonutMath
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            FrameProcessor spaceArray = new FrameProcessor();
+        }
+    }
+}
